@@ -1,0 +1,130 @@
+body {
+  background-color: darkgray;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#navbar-left {
+  background-color: #4aaaa5;
+  float: left;
+  padding: 25px;
+  color: white;
+  margin-top: 0;
+  font-size: 20px;
+}
+
+.navbar-right {
+  text-decoration: none;
+  color: #777777;
+  margin-left: 0 auto;
+}
+
+.content {
+  margin: 80px 80px 80px 80px;
+  text-align: justify;
+  padding: 40px;
+  border-radius: 15px;
+}
+
+img {
+  width: 100%;
+}
+
+/* 
+@media screen and (max-width:980px) {
+    .main-header, .main-content {
+      width:100%; 
+    }
+  }
+
+  @media screen and (max-width:768px) {
+    .main-header, .main-content {
+      width:100%; 
+    }
+  }
+
+  @media screen and (max-width:640px) {
+    .main-header, .main-content {
+      width:100%; 
+    }
+  } */
+
+.projects {
+  margin-top: 100px !important;
+  padding: 40px;
+  border-radius: 15px;
+  max-width: 800px;
+  margin: 0 auto;
+  margin-bottom: 40px;
+}
+
+.work {
+  text-decoration: none !important;
+  color: black;
+}
+
+.profile-title {
+  border-bottom: solid 0.5px;
+  border-color: #17a2b8;
+}
+
+.proj-list {
+  padding: 40px;
+  margin: 0 auto;
+}
+
+.card {
+  max-width: 300px;
+  max-height: 500px;
+  margin-bottom: 10px;
+  height: 100%;
+}
+
+.check {
+  padding: 10px;
+}
+
+.end {
+  margin: 0 auto;
+  color: white;
+}
+
+.card-img-top {
+  margin-top: 15px;
+}
+
+.contact {
+  /* padding: 5px; */
+  margin-left: 15px;
+  margin: 0 auto;
+}
+
+.navbar-expand-lg>.container, .navbar-expand-lg>.container-fluid {
+  padding-left: 0;
+}
+
+.fixed-top {
+  padding-left: 15px;
+}
+
+.icons:hover {
+  opacity: .7;
+}
+
+img.card-img-top{
+  max-width: 150px;
+  max-height: 150px;
+  height: 100%;
+}
+
+.top{
+  background-color: #17a2b8;
+  color: white;
+}
+
+.bottom{
+  background-color: #17a2b8;
+}
+
+body{
+  background-image: url(./paper_fibers.png);
+}
